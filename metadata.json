@@ -1,0 +1,6 @@
+{
+  "name": "BancoEstado - Portal y Banca en Línea",
+  "description": "Portal oficial interactivo de BancoEstado con simuladores de crédito, información de CuentaRUT y plataforma segura de Banca en Línea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
